@@ -1,3 +1,6 @@
+Uploaded the precompiled HEX files for your convenience.
+
+
 # PSNee V9.0
 PSNee is compatible with all retail PlayStation 1 models and various AVR microcontrollers.   
 
